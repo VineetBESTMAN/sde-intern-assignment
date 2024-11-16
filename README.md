@@ -1,6 +1,6 @@
 # sde-intern-assignment
 
-# Contact Management API
+# Contact Management 
 
 ## Project Overview
 This project is a simple contact management system built using Node.js, Express, and SQLite. It includes basic CRUD operations for managing contacts.
